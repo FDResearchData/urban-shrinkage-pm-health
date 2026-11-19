@@ -1,5 +1,3 @@
-# Lower particulate pollution and mortality burden associated with urban depopulation across Chinese cities
-
 ## Data
 
 Files are stored in the `data/` directory.
